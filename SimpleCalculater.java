@@ -7,6 +7,8 @@ class Calculater {
     System.out.println("substracting number"+(a-b));
     System.out.println("multipling number"+(a*b));
     System.out.println("Division"+(a/b));
+    System.out.println("modulus"+(a%b));
+
   }
 
 }
